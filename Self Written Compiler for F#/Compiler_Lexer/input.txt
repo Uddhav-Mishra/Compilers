@@ -1,0 +1,11 @@
+let a11  = +1.2.5
+
+
+let _x = 10
+let b33_  = 200 && 1
+let b2_  = 200 & 1
+
+   if (b = 200) then
+      printfn "Value of a is 100 and b is 200\n"
+ 
+ 

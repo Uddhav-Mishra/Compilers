@@ -1,0 +1,30 @@
+line no. 1 keyword let
+line no. 1 identifier a11
+line no. 1 operaor =
+line no. ERROR more than 1 decimals not possible
+line no. 4 keyword let
+line no. 4 identifier _x
+line no. 4 operaor =
+line no. 4 number10
+line no. 5 keyword let
+line no. 5 identifier b33_
+line no. 5 operaor =
+line no. 5 number200
+line no. 5 operator &&
+line no. 5 ERROR not a valid operator
+line no. 5 number1
+line no. 6 keyword let
+line no. 6 identifier b2_
+line no. 6 operaor =
+line no. 6 number200
+line no. 6 ERROR not a valid operator
+line no. 6 number1
+line no. 8 keyword if
+line no. 8 token ( 
+line no. 8 identifier b
+line no. 8 operaor =
+line no. 8 number200
+line no. 8 token ) 
+line no. 8 keyword then
+line no. 9 identifier printfn
+line no. 9 String literal Value of a is 100 and b is 200\n
