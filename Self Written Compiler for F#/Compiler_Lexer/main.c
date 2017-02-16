@@ -8,7 +8,7 @@ char *keys[]={"let","match", "member" ,"module","mutable","namespace","new", "nu
  "abstract" ,"and", "as" ,"assert" ,"base" ,"begin" ,"class" ,"default", "delegate" ,"do",
  "downcast" ,"downto" ,"elif" ,"else", "end" ,"exception" ,"extern", "false" ,"finally",
  "fun" ,"function" ,"global","if" ,"in", "inherit", "inline" ,"interface", "internal"  } ;
-
+// to delete 2 types of comments // and /**/
 void deleteComments(){
 if(c=='('){
 c=getchar();
