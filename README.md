@@ -1,2 +1,2 @@
-# Compilers
-Contains compiler Projects and Assignments
+# Lex-Examples
+Contains lex codes for some simple problems
